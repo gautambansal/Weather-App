@@ -5,7 +5,7 @@ from .forms import CityForm
 
 def weather(request):
     url = 'http://api.openweathermap.org/data/2.5/weather?q={}&units=metric&appid={}'
-    apikey = '25d7d3aaf149ab67e39c29b6a3a2e7fe'
+    apikey = '*********************'
 
     
 
